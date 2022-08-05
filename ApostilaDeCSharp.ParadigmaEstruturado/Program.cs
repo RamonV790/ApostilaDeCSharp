@@ -49,10 +49,7 @@ namespace ApostilaDeCSharp.ParadigmaEstruturado
                 {
                     Console.WriteLine("Comando inválido! Digite um comando existente!");
                 }
-                /*else if(repetir != "N")
-                {
-             
-                }*/
+               
 
                 
             }while (!repetir.Equals("Y"));
